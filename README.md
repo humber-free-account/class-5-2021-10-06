@@ -9,7 +9,7 @@
 
 ## Questions
 1. Write the command (or commands) that will display the following message 'Hello from the command line.'
-<your-answer-here>
+echo 'Hello from the command line.'
 
 2. Write the command (or commands) that will create a file named 'hello-world.txt'.
 <your-answer-here>
